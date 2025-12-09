@@ -242,7 +242,7 @@ The model confirms that **distance is the strongest predictor of price**, with f
 ---
 
 
-# 11. Learning Outcomes
+# 10. Learning Outcomes
 
 By completing this project, the following skills were demonstrated:
 
